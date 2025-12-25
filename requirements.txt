@@ -1,4 +1,0 @@
-gradio
-pandas
-scikit-learn
-numpy
